@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+<meta charset="UTF8">
+<meta name="viewport" content="width=device-width, initial-scale =1.0">
+<title>  MY BOOKMARKS </title>
+
+    </head>
+    <body> 
+        <h1> BOOK MARKS </h1>
+       <p> <a target="_blank" href="https:www.google.com"> Open google</a> </p>
+       <p> <a target="_blank" href="https:www.youtube.com"> Open youtube </a></p>
+       <p> <a target="_blank" href="https:www.instagram.com"> Open instagram </a></p>
+       <p> <a target="_blank" href="https:www.github.com"> Open github </a></p>
+       <p> <a target="_blank" href="https:www.spotify.com"> Open spotify </a> </p>
+
+    </body>
+</html>
